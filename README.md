@@ -22,6 +22,49 @@ To complete this analysis, we use different Machine Learning techniques to train
 6. Determine which supervised learning algorithm is best used for a given data set or scenario.
 7. Use ensemble and resampling techniques to improve model performance.
 
+## Results:
+The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:      
+
+### Naive Random Oversampling
+![Naive Random Oversampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/NaiveIRandomOversampling.PNG)     
+1. Balanced Accuracy: 0.6413263312262552
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = 0.60/0.68
+
+### SMOTE Oversampling
+![SMOTE Oversampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/SMOTEOversampling.PNG)     
+1. Balanced Accuracy: 0.6374415316001305
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = 0.60/0.68
+
+### Undersampling
+![Undersampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/Undersampling.PNG)     
+1. Balanced Accuracy: 0.5292734810302525
+2. Precision:  The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = 0.70/0.57
+
+### Combination Under-Over Sampling
+![Combination Under-Over Sampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/Combination(Over%20and%20Under)Sampling.PNG)     
+1. Balanced Accuracy: 0.6376117496807152
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .70/.57
+
+### Balanced Random Forest Classifier
+![]()  
+1. Balanced Accuracy: 
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = 
+
+### Easy Ensemble AdaBoost Classifier
+![]()
+1. Balanced Accuracy: 
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = 
+
+
+## Summary
+
+
 
 
 
