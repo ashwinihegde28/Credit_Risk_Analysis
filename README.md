@@ -46,19 +46,19 @@ The results for the six machine learning models including their respective balan
 ### Combination Under-Over Sampling
 ![Combination Under-Over Sampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/Combination(Over%20and%20Under)Sampling.PNG)     
 1. Balanced Accuracy: 0.6376117496807152
-2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+2. Precision: 
 3. Recall: High/Low risk = .70/.57
 
 ### Balanced Random Forest Classifier
 ![]()  
 1. Balanced Accuracy: 
-2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+2. Precision: 
 3. Recall: High/Low risk = 
 
 ### Easy Ensemble AdaBoost Classifier
 ![]()
 1. Balanced Accuracy: 
-2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+2. Precision: 
 3. Recall: High/Low risk = 
 
 
