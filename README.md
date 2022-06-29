@@ -50,13 +50,13 @@ The results for the six machine learning models including their respective balan
 3. Recall: High/Low risk = .70/.57
 
 ### Balanced Random Forest Classifier
-![]()  
+![BalancedRandomForestClassifier](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/BalancedRandomForestClassifier.PNG)  
 1. Balanced Accuracy: 0.7877672625306695
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .67/.91
 
 ### Easy Ensemble AdaBoost Classifier
-![]()
+![Easy Ensemble AdaBoost Classifier](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/EasyEnsembleClassifier.PNG)
 1. Balanced Accuracy: 0.925427358175101
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk =  0.91/0.94
