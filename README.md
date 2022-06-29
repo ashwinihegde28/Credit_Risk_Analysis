@@ -46,24 +46,26 @@ The results for the six machine learning models including their respective balan
 ### Combination Under-Over Sampling
 ![Combination Under-Over Sampling](https://github.com/ashwinihegde28/Credit_Risk_Analysis/blob/main/images/Combination(Over%20and%20Under)Sampling.PNG)     
 1. Balanced Accuracy: 0.6376117496807152
-2. Precision: 
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .70/.57
 
 ### Balanced Random Forest Classifier
 ![]()  
-1. Balanced Accuracy: 
-2. Precision: 
-3. Recall: High/Low risk = 
+1. Balanced Accuracy: 0.7877672625306695
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .67/.91
 
 ### Easy Ensemble AdaBoost Classifier
 ![]()
-1. Balanced Accuracy: 
-2. Precision: 
-3. Recall: High/Low risk = 
+1. Balanced Accuracy: 0.925427358175101
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk =  0.91/0.94
 
 
 ## Summary
-
+- Maximum Balanced accuracy is closest to 1 is the best machine learning model. So the Easy Ensemble AdaBoost Classifier is the best model to choose with its .93 balanced accuracy. The other models were below .80 balanced accuracy. 
+- The precision for all models were similar and within an appropriate range. 
+- The recall score also needs to fall within 0 and 1, with numbers closer to 1 being the better model. The Easy Ensemble AdaBoost Classifier tops in the recall score, making it the final best machine learning model to choose for further credit card analysis.
 
 
 
